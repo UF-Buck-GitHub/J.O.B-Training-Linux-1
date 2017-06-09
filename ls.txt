@@ -1,0 +1,15 @@
+total 112
+drwxr-xr-x  12 UFBuck72  staff    408 Jun  5 10:54 ..
+-rw-r--r--   1 UFBuck72  staff    271 Jun  5 10:54 phonebook.csv
+-rw-r--r--   1 UFBuck72  staff   1909 Jun  5 10:54 gettysburg-address.txt
+-rw-r--r--   1 UFBuck72  staff   2228 Jun  5 10:54 exercise5.md
+-rw-r--r--   1 UFBuck72  staff   4203 Jun  5 10:54 exercise4.md
+-rw-r--r--   1 UFBuck72  staff   3122 Jun  5 10:54 exercise3.md
+-rw-r--r--   1 UFBuck72  staff   2646 Jun  5 10:54 exercise2.md
+-rw-r--r--   1 UFBuck72  staff    149 Jun  5 10:54 cutpractice.txt
+-rw-r--r--   1 UFBuck72  staff   6478 Jun  5 10:54 README.md
+-rw-r--r--   1 UFBuck72  staff  11357 Jun  5 10:54 LICENSE
+-rw-r--r--   1 UFBuck72  staff    120 Jun  6 09:34 pwd.txt
+drwxr-xr-x  14 UFBuck72  staff    476 Jun  6 09:36 .git
+-rw-r--r--   1 UFBuck72  staff      0 Jun  6 09:36 ls.txt
+drwxr-xr-x  14 UFBuck72  staff    476 Jun  6 09:36 .
